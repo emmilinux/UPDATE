@@ -2,6 +2,9 @@
 Lista de updates
 
 - Instalar Kernel 4.10
-- Instalar aplicativo jogos
+- Instalar aplicativo jogos Game-app
 - Arrumar permissões atalhos desktop
 - Limpar histórico navegador e terminais
+- Instalar tela login Emmi-greeter
+- Atualizar emmi-inteligente
+- Programar Emmi-iso (Gravar iso pendrive)
