@@ -11,3 +11,5 @@ Lista de updates <b>2.2</b>
 - Arrumar Webapps (Por os titulos em todos, pt-br)
 - Retirar thunar e Substituir por Nautilus
 - Retirar todos wallpapers do sistema e substituir por wallpapers novos (está no github)
+- Trocar icone padrão por (XATANE ICONS) https://www.gnome-look.org/p/1173777/
+- Retirar barra padrão e instalar <b>Docky</b>
