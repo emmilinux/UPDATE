@@ -1,5 +1,5 @@
 # UPDATE
-Lista de updates
+Lista de updates <b>2.2</b>
 
 - Instalar Kernel 4.10
 - Instalar aplicativo jogos Game-app
