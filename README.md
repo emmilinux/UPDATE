@@ -8,3 +8,5 @@ Lista de updates
 - Instalar tela login Emmi-greeter
 - Atualizar emmi-inteligente
 - Programar Emmi-iso (Gravar iso pendrive)
+- Arrumar Webapps (Por os titulos em todos, pt-br)
+- Retirar thunar e Subtituir por Nautilus
