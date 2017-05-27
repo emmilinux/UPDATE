@@ -10,3 +10,4 @@ Lista de updates <b>2.2</b>
 - Programar Emmi-iso (Gravar iso pendrive)
 - Arrumar Webapps (Por os titulos em todos, pt-br)
 - Retirar thunar e Substituir por Nautilus
+- Retirar todos wallpapers do sistema e substituir por wallpapers novos (está no github)
