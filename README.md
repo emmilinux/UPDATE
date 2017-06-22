@@ -1,7 +1,7 @@
 # UPDATE
 Lista de updates <b>2.2</b>
 
-- Instalar Kernel 4.10
+- <s>Instalar Kernel 4.10</s>
 - Instalar aplicativo jogos Game-app
 - Arrumar permissões atalhos desktop
 - Limpar histórico navegador e terminais
