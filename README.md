@@ -1,9 +1,7 @@
 # UPDATE
 Lista de updates <b>2.2</b>
 
-- <s>Instalar Kernel 4.10</s>
 - Instalar aplicativo jogos Game-app
-- Arrumar permissões atalhos desktop
 - Limpar histórico navegador e terminais
 - Instalar tela login Emmi-greeter
 - Atualizar emmi-inteligente
@@ -13,3 +11,5 @@ Lista de updates <b>2.2</b>
 - Retirar todos wallpapers do sistema e substituir por wallpapers novos (está no github)
 - Trocar icone padrão por (XATANE ICONS) https://www.gnome-look.org/p/1173777/
 - Retirar barra padrão e instalar <b>Docky</b>
+- <s>Arrumar permissões atalhos desktop</s>
+- <s>Instalar Kernel 4.10</s>
