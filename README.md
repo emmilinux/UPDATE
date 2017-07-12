@@ -13,4 +13,4 @@ Lista de updates <b>2.2</b>
 - <s>Arrumar permissões atalhos desktop</s>
 - <s>Instalar Kernel 4.10</s>
 - <s>Trocar icone padrão por (XATANE ICONS) https://www.gnome-look.org/p/1173777/</s>
-
+- <s>Instalador traduzido</s>
