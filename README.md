@@ -11,6 +11,7 @@ Lista de updates <b>2.2</b>
 - Retirar todos wallpapers do sistema e substituir por wallpapers novos (está no github)
 - Retirar barra padrão e instalar <b>Docky</b>
 - Alterar arquivos para versão 2.2
+- Revisar permissões ícones Desktop
 - <s>Arrumar permissões atalhos desktop</s>
 - <s>Instalar Kernel 4.10</s>
 - <s>Trocar icone padrão por (XATANE ICONS) https://www.gnome-look.org/p/1173777/</s>
