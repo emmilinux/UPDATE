@@ -17,9 +17,12 @@ Audacity
 Filezilla
 Nautilus
 Meu Computador
+Realtek-firmware
+
 
 Retirado Bug ITALIANO live
 Xatane icons
 Novos Wallpapers
 Trocado o Wallpaper do Lightdm
 Trocado Logo Menu
+Traduzido alguns icones que estavam em inglês
