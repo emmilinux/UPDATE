@@ -26,6 +26,6 @@ Trocado o Wallpaper do Lightdm<br>
 Trocado Logo Menu<br>
 Traduzido alguns icones que estavam em inglês<br>
 Alinhado e reduzido icon da Emmi-info (Credential.png)<br>
-Melhorado Emmi-inteligente
-Retirado bug/conflito do alsa
-Retirado Kernel próprio, trocado por kernel padrão debian 3x
+Melhorado Emmi-inteligente<br>
+Retirado bug/conflito do alsa<br>
+Retirado Kernel próprio, trocado por kernel padrão debian 3x<br>
