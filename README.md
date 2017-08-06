@@ -19,6 +19,7 @@ Xatane icons<br>
 Meu Computador<br>
 Realtek-firmware<br>
 <br>
+<br>
 Retirado Bug ITALIANO live<br>
 Novos Wallpapers 4k<br>
 Trocado o Wallpaper do Lightdm<br>
@@ -26,3 +27,5 @@ Trocado Logo Menu<br>
 Traduzido alguns icones que estavam em inglês<br>
 Alinhado e reduzido icon da Emmi-info (Credential.png)<br>
 Melhorado Emmi-inteligente
+Retirado bug/conflito do alsa
+Retirado Kernel próprio, trocado por kernel padrão debian 3x
