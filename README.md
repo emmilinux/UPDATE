@@ -1,5 +1,6 @@
 # UPDATE
 # 2.2 sid
+<b>Pacotes novos (base)</b><br>
 Whatsie<br>
 Hangouts YAKYAK<br>
 Google Drive<br>
@@ -20,6 +21,7 @@ Meu Computador<br>
 Realtek-firmware<br>
 <br>
 <br>
+<b>Correções (base)</b><br>
 Retirado Bug ITALIANO live<br>
 Novos Wallpapers 4k<br>
 Trocado o Wallpaper do Lightdm<br>
