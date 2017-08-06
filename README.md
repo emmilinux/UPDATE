@@ -1,6 +1,6 @@
 # UPDATE
 # 2.2 sid
-<b>Pacotes novos (base)</b><br>
+<b>Pacotes novos "nodeps" (base)</b><br>
 Whatsie<br>
 Hangouts YAKYAK<br>
 Google Drive<br>
