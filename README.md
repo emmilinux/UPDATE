@@ -15,13 +15,14 @@ Firefox<br>
 Audacity<br>
 Filezilla<br>
 Nautilus<br>
+Xatane icons<br>
 Meu Computador<br>
 Realtek-firmware<br>
 <br>
 Retirado Bug ITALIANO live<br>
-Xatane icons<br>
-Novos Wallpapers<br>
+Novos Wallpapers 4k<br>
 Trocado o Wallpaper do Lightdm<br>
 Trocado Logo Menu<br>
 Traduzido alguns icones que estavam em inglês<br>
-Alinhado e reduzido icon da Emmi-info (Credential.png)
+Alinhado e reduzido icon da Emmi-info (Credential.png)<br>
+Melhorado Emmi-inteligente
