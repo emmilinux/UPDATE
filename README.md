@@ -1,6 +1,5 @@
 # UPDATE
-Lista de updates <b>2.2</b>
-
+# 2.2 sid
 Whatsie<br>
 Hangouts YAKYAK<br>
 Google Drive<br>
